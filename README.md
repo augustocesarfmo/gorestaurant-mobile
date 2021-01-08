@@ -1,6 +1,6 @@
 # GoRestaurant - mobile
 
-Aplicação _mobile_, desenvolvida no Bootcamp da GoStack 14 - [Rocketseat](https://rocketseat.com.br/), que permite a exibição, criação, remoção e atualização (CRUD) de pratos de comida.
+Aplicação _mobile_, desenvolvida no Bootcamp da GoStack 14 - [Rocketseat](https://rocketseat.com.br/), que permite a exibição, filtragem e criação de novos pedidos de comida.
 
 ![](https://imgur.com/H325xG8.png)
 
