@@ -43,7 +43,7 @@ $ yarn ios | yarn android
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/gorestaurant-mobile/blob/master/LICENSE.md) para obter mais informações.
 
 ---
 
